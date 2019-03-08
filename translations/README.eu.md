@@ -7,7 +7,7 @@
 
 Zaila da. Lehen aldian zerbait egiten duzula zaila egiten zaizu, batez ere beste batzuekin kolaboratzear zaudenean, eroso ez diren akatsak egin ahal dituzulako. TRADUCIR Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
 
-Artikuluak irakurri eta gidak irakurtzea lagungarria izan daiteke, baina, ¿Benetan horrela ikasteko modu aproposena da? ¿Es da hobeagoa praktikako ingurune batean lan egitea?. Proiektu honen helburu nagusiena da hasiberriak bere lehen ekarpena egiteko gida bat izatea eta hau egiteko behar den gida moduan aritzea. Zure lehen ekarpena egin nahiz izanez gero, hurrengo pausoak jarraitzea ezinbestekoa da helburua lortzeko.
+Artikuluak irakurri eta gidak irakurtzea lagungarria izan daiteke, baina, benetan horrela ikasiko dugu? Ez da hobeagoa praktikako ingurune batean lan egitea?. Proiektu honen helburu nagusiena da hasiberriak bere lehen ekarpena egiteko gida bat izatea eta hau egiteko behar den zehaztutako pausuen gida moduan aritzea. Zure lehen ekarpena egin nahiz izanez gero, hurrengo pausoak jarraitzea ezinbestekoa da helburua lortzeko.
 
 #### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI).]( #tutoriales-con-otras-herramientas )*.
 
@@ -120,11 +120,11 @@ Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyect
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Auto promoción
+## Auto sustapena
 
-Si te gustó este proyecto, márcalo como favorito con una estrella en [GitHub](https://github.com/Roshanjossey/first-contributions).
-Si te sientes agradecido, sigue a [Roshan](https://roshanjossey.github.io/) en
-[Twitter](https://twitter.com/sudo__bangbang) y
-[GitHub](https://github.com/roshanjossey).
+Proiektu hau gustoko izanez gero, gogoetan gehitu ezazu [GitHub](https://github.com/Roshanjossey/first-contributions).
+Zure esker ona eman nahi izanez gero, jarraitu [Roshan](https://roshanjossey.github.io/) 
+[Twitter](https://twitter.com/sudo__bangbang) eta
+[GitHub](https://github.com/roshanjossey) bidez.
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
